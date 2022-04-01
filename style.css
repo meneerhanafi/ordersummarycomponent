@@ -131,7 +131,7 @@ body{
     color: var(--Desaturated-blue);
     font-weight: 700;
 }
-@media(min-width:1024px){
+@media(min-width:1440px){
     body{
         background: linear-gradient(180deg, var(--deep) 30%, var(--Pale-blue) 0);
     }
